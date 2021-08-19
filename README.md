@@ -6,5 +6,3 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wuhuikai&show_icons=true&hide_border=true&hide=contribs,prs&count_private=true&theme=gruvbox)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wuhuikai&theme=neon-dark&hide_border=true)
-
-![Tropy](https://github-profile-trophy.vercel.app/?username=wuhuikai&theme=monokai&row=1&column=4)
